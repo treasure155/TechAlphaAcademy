@@ -13,7 +13,7 @@
     padding-top: 30px;
     padding-bottom: 30px;
     position: relative; 
-    background-image: url(/images/bg.png);
+    background-image: url(bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1179,7 +1179,7 @@ color: #666;
 /* Admissions */
 
 .admissions-hero-section {
-    background-image: url('/images/admissions-hero.png'); /* Replace with your hero image */
+    background-image: url('admissions-hero.png'); 
     background-size: cover;
     background-position: center;
     padding: 100px 20px;
@@ -1474,7 +1474,7 @@ color: #666;
 /* FontAwesome icon styling for service cards */
 .service-icon {
     font-size: 40px;
-    color: #0073e6;
+    color: #1528b7;
     margin-bottom: 10px;
 }
 
